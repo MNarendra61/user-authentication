@@ -1,0 +1,67 @@
+#home{
+    background: rgb(0, 101, 219);
+    background: linear-gradient(90deg, rgb(0, 101, 219) 50%, rgba(0, 212, 255,1)100%);
+  min-height: 500px !important;
+  }
+  .card {
+    transition: all 0.5s ease;
+  }
+  .card:hover {
+    cursor: pointer;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+  }
+  .lead {
+    font-size: medium !important;
+  }
+  .fine {
+    text-align: left;
+  }
+  .month {
+    font-size: 13px  !important;
+    /* width: fit-content ; */
+    padding-left: 54px !important;
+    /* border: 1px solid red; */
+    margin-right: 15px;
+  }
+  .sub{
+    font-size: 16px  !important;
+    margin-right: 121px;
+    text-align: right;
+  }
+  .textcase {
+    text-align: left;
+    font-size: 13px;
+  
+  }
+  .mx-auto {
+    margin-right: auto!important;
+    margin-left: auto!important;
+    font-size: 13px;
+    text-align: left;
+  
+  }
+  .list-unstyled{
+    text-align: left;
+  }
+  .section{
+    text-align: left;
+  }
+  .input{
+    text-align: justify;
+    margin-left: 43px;
+    margin-right: 40px;
+  } 
+  .sec {
+    font-size: 13px;
+  }
+  .textalign{
+  text-align: right;
+  }
+  .inline{
+    margin-left: -90px !important;
+  }
+  .form{
+    background: rgb(0, 101, 219);
+    background: linear-gradient(90deg, rgb(0, 101, 219) 50%, rgba(0, 212, 255,1)100%);
+  
+  }
